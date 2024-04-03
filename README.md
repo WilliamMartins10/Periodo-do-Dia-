@@ -1,4 +1,4 @@
-                                                                                        🌞✨ Apresentando meu projeto "Périodo do Dia"! ✨🌙
+ 🌞✨ Apresentando meu projeto "Périodo do Dia"! ✨🌙
 
 Estou animado em compartilhar com vocês o meu mais recente projeto, o "Périodo do Dia"! Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript, e foi uma oportunidade emocionante para aplicar minhas habilidades em desenvolvimento web.
 
